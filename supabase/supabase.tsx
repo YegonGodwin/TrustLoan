@@ -1,0 +1,4 @@
+//pqmbbtunlgmrngefhxai.supabase.co
+https: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+  .eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBxbWJidHVubGdtcm5nZWZoeGFpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDE3MjA1OTUsImV4cCI6MjA1NzI5NjU5NX0
+  .KqYdYHsn4bkBzXc9zB2d - WtrG50CkOfvYAOHtZ2xinQ;
