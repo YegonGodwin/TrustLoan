@@ -1,6 +1,18 @@
 // Add at the top with other imports
-import ApplyPage from './App';
+import React from 'react';
 import { createClient } from '@supabase/supabase-js';
+import { useNavigate } from 'react-router-dom';
+import {
+  ShieldCheck,
+  Wallet,
+  Clock,
+  Calculator,
+  Building2,
+  BadgeCheck,
+  ChevronRight,
+  ArrowRight,
+  Star,
+} from 'lucide-react';
 
 const supabase = createClient(
   process.env.REACT_APP_SUPABASE_URL!,
