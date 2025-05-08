@@ -12,7 +12,6 @@ import {
   ArrowRight,
   Star,
 } from "lucide-react";
-
 interface FeatureCardProps {
   icon: React.ReactNode;
   title: string;
