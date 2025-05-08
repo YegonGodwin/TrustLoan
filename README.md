@@ -1,6 +1,6 @@
 # TrustLoan System
 
-<img src="./assets/image.png" width="600" height="600" />
+<img src="../assets/image.png" width="600" height="600" />
 
 ### How to build a vite project
 
